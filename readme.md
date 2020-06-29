@@ -16,4 +16,4 @@ Print functions not needed in final distributed version.
 
 # About me
 
-Relatively ew to coding so likely there are more efficient ways to go about this task. All input appreciated. Will expand and updated as I can.
+Relatively new to coding so likely there are more efficient ways to go about this task. All input appreciated. Will expand and updated as I can.
