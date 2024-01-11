@@ -14,6 +14,6 @@ Does not use beautiful soup in order to reduce size of executable.
 
 Print functions not needed in final distributed version.
 
-# About me
+# WARNING
 
-Relatively new to coding so likely there are more efficient ways to go about this task. All input appreciated. Will expand and updated as I can.
+Old and out of date
